@@ -1,0 +1,4 @@
+﻿Oct 15 10:21:03 server sshd[1]: Failed password for admin from 203.0.113.5 port 52144 ssh2
+Oct 15 10:21:04 server sshd[2]: Failed password for root from 203.0.113.5 port 52150 ssh2
+Oct 15 10:21:05 server sshd[3]: Failed password for user from 192.0.2.10 port 52151 ssh2
+Oct 15 10:21:06 server sshd[4]: Accepted password for user from 192.0.2.9 port 52152 ssh2
